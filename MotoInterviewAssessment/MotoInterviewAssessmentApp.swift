@@ -11,7 +11,7 @@ import SwiftUI
 struct MotoInterviewAssessmentApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MotoTabView()
         }
     }
 }
