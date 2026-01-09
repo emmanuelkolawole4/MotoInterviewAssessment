@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "hamburger_menu.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
